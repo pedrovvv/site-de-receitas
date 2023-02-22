@@ -8,6 +8,7 @@
    font-family: 'Pacifico', cursive;
   }
 
+
 .cor-especial {
     color: darkred;
 }
@@ -39,4 +40,12 @@ main {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
     font-size: medium;
+}
+
+.contacto > a {
+    color: black;
+}
+
+.contacto {
+    text-align: center;
 }
